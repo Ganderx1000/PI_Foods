@@ -6,7 +6,7 @@
   <img height="200" src="./cooking.png" />
 </p>
 
-## Objetivos del Proyectoo
+## Objetivos del Proyectooo
 
 - Construir una App utlizando React, Redux, Node y Sequelize.
 - Afirmar y conectar los conceptos aprendidos en la carrera.
